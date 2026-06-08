@@ -1,4 +1,4 @@
 #Grundlagen der Anwendungsentwicklung A4
 
-Submitted by 108721
- Lorem ipsum dolor sit amet
+Submitted by 108721  
+Lorem ipsum dolor sit amet
